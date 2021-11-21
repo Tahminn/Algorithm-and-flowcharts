@@ -1,0 +1,10 @@
+Divisibality of n by 3 and 7
+
+input n
+  n == 0
+    print "Do not enter 0"
+  else
+    n%3 == 0 and n%7 == 0
+      print "Divisible by 3 and 7"
+    else
+      print "Undivisible by 3 and 7"

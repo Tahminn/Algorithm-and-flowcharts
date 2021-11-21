@@ -1,0 +1,8 @@
+The weather temperature
+
+input weatherTemperature
+    If weatherTemperature < 15
+      print "The weather is cold"
+    else
+      print "The weather is hot"
+

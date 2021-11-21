@@ -1,0 +1,11 @@
+Sum (n;m)
+
+input n;m
+  n;m == 0
+    print "Do not enter 0"
+  else
+    n;m%2 == 0
+      print "Even";
+      sum = n+m;
+    else
+      print "Odd"
